@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Welcome Bonus",
+    "description": "Get 100% on your first deposit, up to $100.",
+    "link": "https://example.com/welcome"
+  },
+  {
+    "title": "Free Spins",
+    "description": "50 free spins when you sign up today.",
+    "link": "https://example.com/free-spins"
+  },
+  {
+    "title": "Cashback Offer",
+    "description": "10% weekly cashback on your losses.",
+    "link": "https://example.com/cashback"
+  }
+]
